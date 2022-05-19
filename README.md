@@ -4,10 +4,9 @@ Custom game on Asteroids style. I used assets which I found on the Internet. Thi
 
 ![ApplicationPreview](preview.png)
 
-## Getting started
-Some instructions to help you run the game on your machine
-
-### Prequirements
+## Prequirements
 1. Python
 2. Any Python IDE (PyCharm, etc.)
 3. Pyglet 
+
+## Built using
